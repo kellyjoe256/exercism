@@ -1,0 +1,20 @@
+# exercism
+.exercism
+
+# php
+phpunit
+
+# java
+bin
+build
+.gradle
+
+# bash
+
+# python
+__pycache__
+.pytest_cache
+
+# javascript
+
+# ruby
